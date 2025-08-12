@@ -1,0 +1,305 @@
+{
+  "user": {
+    "id": "1171288639637037127",
+    "username": "sparkling_wolf_26682",
+    "discriminator": "0",
+    "email": "15245012960@163.com"
+  },
+  "guilds": [
+    {
+      "id": "343040134238961666",
+      "name": "AlterVerse",
+      "icon": "639c5429f7466d5ddad3b429d7e22c37",
+      "owner": false,
+      "permissions": 36802113
+    },
+    {
+      "id": "780750138229522453",
+      "name": "SynFutures",
+      "icon": "6a7ed5e9a39caea80141537a11aaa9e4",
+      "owner": false,
+      "permissions": 36801600
+    },
+    {
+      "id": "819855804554543114",
+      "name": "Kwil",
+      "icon": "62fca3be905f6988fe6eb21ed9ced74f",
+      "owner": false,
+      "permissions": 66560
+    },
+    {
+      "id": "823564092379627520",
+      "name": "Marinade",
+      "icon": "aba49892ae6bda4046faf1c7c20e0b9c",
+      "owner": false,
+      "permissions": 37047360
+    },
+    {
+      "id": "839458691983605832",
+      "name": "zkLink",
+      "icon": "dfaf6399e90ac3493088ff468b90ecfb",
+      "owner": false,
+      "permissions": 104189505
+    },
+    {
+      "id": "848060988636921856",
+      "name": "Metaplex | Digital Asset Protocol",
+      "icon": "51316cf0b5591c2f46d3fabccdb01528",
+      "owner": false,
+      "permissions": 362561
+    },
+    {
+      "id": "850218821398822922",
+      "name": "Omni Network",
+      "icon": "c0ff5e94da93c909580b57547c156019",
+      "owner": false,
+      "permissions": 330817
+    },
+    {
+      "id": "880987697336954880",
+      "name": "Tabi",
+      "icon": "deb661b81f9f2715bc685af33c866fb0",
+      "owner": false,
+      "permissions": 1024
+    },
+    {
+      "id": "881985666265780274",
+      "name": "LayerZero Official",
+      "icon": "c057b2d6dfdfe8010f74787f156c9a27",
+      "owner": false,
+      "permissions": 36801600
+    },
+    {
+      "id": "915445727600205844",
+      "name": "CARV",
+      "icon": "d43767f071ca85fb1da2e87e8c331e27",
+      "owner": false,
+      "permissions": 104173121
+    },
+    {
+      "id": "930833706460004402",
+      "name": "Social DAO",
+      "icon": "db7581122f28010005293ef995f20788",
+      "owner": false,
+      "permissions": 103876161
+    },
+    {
+      "id": "933995010158907422",
+      "name": "🧙 Chainbase Community",
+      "icon": "76f17f653f3f55deaa2a46217246edf6",
+      "owner": false,
+      "permissions": 1412161
+    },
+    {
+      "id": "935782563170091028",
+      "name": "EX-Sports",
+      "icon": "ba520ab8668d8c6f14ba2b911c81fd34",
+      "owner": false,
+      "permissions": 104173121
+    },
+    {
+      "id": "940826514717569025",
+      "name": "Agridex",
+      "icon": "03f6970d46cd87201af8e406ca67e569",
+      "owner": false,
+      "permissions": 104172609
+    },
+    {
+      "id": "950697029695328266",
+      "name": "TerpLayer",
+      "icon": "af7401e20b778ab7d27ff8542a911a00",
+      "owner": false,
+      "permissions": 67470401
+    },
+    {
+      "id": "951684227894738974",
+      "name": "KlapAI",
+      "icon": "67923bcce87cfd3e551e86c43b1253fc",
+      "owner": false,
+      "permissions": 104189505
+    },
+    {
+      "id": "973055032368967711",
+      "name": "Particle Network",
+      "icon": "a24dfeaa754e6225ef0a27604ad682c5",
+      "owner": false,
+      "permissions": 3524673
+    },
+    {
+      "id": "974514942877261886",
+      "name": "SYNTHR",
+      "icon": "1159a7a2e2b368c1460ac395959fafd4",
+      "owner": false,
+      "permissions": 103910913
+    },
+    {
+      "id": "1080817368646819941",
+      "name": "io.net",
+      "icon": "cb2ceb976617b13c98e1e6d1efa15e2c",
+      "owner": false,
+      "permissions": 104189505
+    },
+    {
+      "id": "1085300494408355901",
+      "name": "Succinct",
+      "icon": "a5d791edbf602658f4ac16ee6e4d215a",
+      "owner": false,
+      "permissions": 104188480
+    },
+    {
+      "id": "1101763314691870770",
+      "name": "NFPrompt",
+      "icon": "e7c61e83ca07e5c7cbb421abcc0c604b",
+      "owner": false,
+      "permissions": 68537409
+    },
+    {
+      "id": "1110817452222316594",
+      "name": "MEET48",
+      "icon": "ba63f37cd57e19da6200c147db42d16b",
+      "owner": false,
+      "permissions": 104320577
+    },
+    {
+      "id": "1111109444110135296",
+      "name": "ZAN",
+      "icon": "ba7a175c5079deb1a313dc72e321588d",
+      "owner": false,
+      "permissions": 70634561
+    },
+    {
+      "id": "1122227993805336617",
+      "name": "MyShell",
+      "icon": "86506e8730a029dcc895a4fa76cd17d1",
+      "owner": false,
+      "permissions": 37080640
+    },
+    {
+      "id": "1133133425545584710",
+      "name": "Zypher Games",
+      "icon": "dab5d79375b4b0c44baa98a86f7965b7",
+      "owner": false,
+      "permissions": 66560
+    },
+    {
+      "id": "1133323936529129492",
+      "name": "SHOWDOWN GAMING",
+      "icon": "2c32ad2c218031680cc5184ae40c53ff",
+      "owner": false,
+      "permissions": 3526209
+    },
+    {
+      "id": "1141104635902447811",
+      "name": "RelicDAO",
+      "icon": "9349940fb29cb495702e0b11911a4bb1",
+      "owner": false,
+      "permissions": 104189761
+    },
+    {
+      "id": "1143699396500934796",
+      "name": "Artela Network",
+      "icon": "f2139cdffebdb0999f51a50093d2035b",
+      "owner": false,
+      "permissions": 66561
+    },
+    {
+      "id": "1156486804661338162",
+      "name": "Morph Layer",
+      "icon": "dc8a810047d5bd07dda4fbae130eda45",
+      "owner": false,
+      "permissions": 3247168
+    },
+    {
+      "id": "1156603664467759224",
+      "name": "opBNB Guide",
+      "icon": "55f789bcfd6110423a5a5cb9c3baf3f1",
+      "owner": false,
+      "permissions": 104189505
+    },
+    {
+      "id": "1166855734236024852",
+      "name": "Zircuit",
+      "icon": "d1b86b3133e229860dc1f671154dd765",
+      "owner": false,
+      "permissions": 104188993
+    },
+    {
+      "id": "1177250613344612443",
+      "name": "Plume",
+      "icon": "368ad6143c721adb57884321ba4e0763",
+      "owner": false,
+      "permissions": 1428545
+    },
+    {
+      "id": "1187146512929656992",
+      "name": "BAC Games",
+      "icon": "7e7758050abba0f829194f05fcf14748",
+      "owner": false,
+      "permissions": 104173121
+    },
+    {
+      "id": "1199323224043950240",
+      "name": "NodeOps",
+      "icon": "4fb43bdedf1e0bf02143cf576bde8c7c",
+      "owner": false,
+      "permissions": 104189505
+    },
+    {
+      "id": "1215232680942374912",
+      "name": "Gaia 🌱",
+      "icon": "8b967e0baac7fe3febef8ce5b04d352c",
+      "owner": false,
+      "permissions": 104189505
+    },
+    {
+      "id": "1217700236303274034",
+      "name": "PINGPONG",
+      "icon": "1f97a5e37086722e2fd987f0434bbf1e",
+      "owner": false,
+      "permissions": 105473
+    },
+    {
+      "id": "1217707966590091304",
+      "name": "StarLandAI",
+      "icon": "1746ad8ceca01909321f016c11a0008a",
+      "owner": false,
+      "permissions": 1073794561
+    },
+    {
+      "id": "1229940893642129438",
+      "name": "PIN AI",
+      "icon": "2ca5d08c63a1409599b1b62eea72f5dc",
+      "owner": false,
+      "permissions": 37080641
+    },
+    {
+      "id": "1232217719101853796",
+      "name": "Deek",
+      "icon": "818fb79fbee18aa34f959d7dff0b1343",
+      "owner": false,
+      "permissions": 328769
+    },
+    {
+      "id": "1234503421780824085",
+      "name": "CORN",
+      "icon": "aaeaf24fef76389ef350d18cc073dd03",
+      "owner": false,
+      "permissions": 1051649
+    },
+    {
+      "id": "1240142687907086419",
+      "name": "Vanilla Finance",
+      "icon": "c066c0d133439a9e43d55e7695f381b0",
+      "owner": false,
+      "permissions": 0
+    },
+    {
+      "id": "1244848726942421062",
+      "name": "Kayak_Finance",
+      "icon": "98c22652b68a785d47a8c212cb67e87c",
+      "owner": false,
+      "permissions": 104189505
+    }
+  ],
+  "connections": []
+}

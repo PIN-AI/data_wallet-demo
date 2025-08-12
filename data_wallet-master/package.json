@@ -1,0 +1,25 @@
+{
+  "name": "data_wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf node_modules && rm -rf package-lock.json",
+    "clean:install": "npm run clean && npm install",
+    "demo": "npx ts-node scripts/demo.ts",
+    "fmt": "npx prettier --write \"**/*.{ts,tsx,js,jsx,json}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@mysten/seal": "0.3.5 ",
+    "@mysten/sui": "^1.26.1",
+    "@mysten/walrus": "^0.0.18"
+  }
+}
