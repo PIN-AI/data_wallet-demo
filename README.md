@@ -2,6 +2,13 @@
 
 This project demonstrates a prototype of a "data wallet" using Sui and Walrus. It showcases how user data can be encrypted such that only specific authorized agents can decrypt it, leveraging on-chain access control policies.
 
+## Video
+
+
+https://github.com/user-attachments/assets/767f9d5e-0e50-4e4a-851d-351068b54446
+
+
+
 ## How it Works
 
 The core concept involves:
